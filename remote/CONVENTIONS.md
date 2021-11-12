@@ -6,7 +6,7 @@ The convention used here is adapted from the Python conventions. This will cause
 ### Naming Styles
 * File names - Files should have short, all-lowercase names. Underscores may be used if it improves readability. For example, `utils`
 * Class names - Class names should use the CapWords/CamelCase convention. For example, `MyCustomClass`
-* Function and Variable names - Function and variable names should be lowercase with words separated by underscores as needed to improve readability. For example, `my_var`
+* Function and Variable names - Function and variable names will use lowerCamelCase. For example, `myVar` and `myFunction`
 * Constants - Constants are written in all capital letters with underscores separated words. For example, `MAX_VAL` and `TOTAL`
 
 ## Docstrings
